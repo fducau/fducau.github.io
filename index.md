@@ -17,6 +17,7 @@ Some interesting courses I have taken:
 - Deep Learning
 
 # [](#header-2)Projects
+Latest projects I have been working on. 
 
 - Felipe Ducau and Maria Elena Villalobos Ponte. 2016. _CWord: Incorporating Larger Context in Neural Conversation Model_ ([pdf](https://github.com/fducau/nmt/blob/master/nmt/CWord_fnd212_mvp291.pdf), [source](https://github.com/fducau/nmt))
 
