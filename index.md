@@ -3,7 +3,7 @@ layout: default
 ---
 
 # [](#header-2)About
-I am a Master's student in Data Science at New York University. Prior to that I received my degree in Electrical Engineering from Universidad Catolica Argentina. 
+I am a Master's student in Data Science at [New York University](http://cds.nyu.edu/). Prior to that I received my degree in Electrical Engineering from [Universidad Catolica Argentina](http://www.uca.edu.ar/index.php/site/index/es/uca/facultad-de-ciencias-fisicomatematicas-e-ingenieria/). 
 
 #  [](#header-2)Courses
 Some interesting courses I have taken:
