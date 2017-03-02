@@ -19,7 +19,7 @@ Some interesting courses I have taken:
 # [](#header-2)Projects
 Latest projects I have been working on:
 
-- Felipe Ducau and Maria Elena Villalobos Ponte. 2016. _CWord: Incorporating Larger Context in Neural Conversation Model_ ([pdf](https://github.com/fducau/CWord/CWord_fnd212_mvp291.pdf), [source](https://github.com/fducau/CWord))
+- Felipe Ducau and Maria Elena Villalobos Ponte. 2016. _CWord: Incorporating Larger Context in Neural Conversation Model_ ([pdf](https://github.com/fducau/CWord/blob/master/CWord_fnd212_mvp291.pdf), [source](https://github.com/fducau/CWord))
 
 - Felipe Ducau, Maria Elena Villalobos Ponte, Sebastian Brarda. 2016. _SightWalk: Automatic Generation of walking paths from social media_ ([pdf](https://github.com/fducau/sightwalk/blob/master/SightWalk_Final_Report.pdf), [demo](http://www.youtube.com/watch?v=GAvCeND9iRI), [source](https://github.com/fducau/sightwalk))
 
