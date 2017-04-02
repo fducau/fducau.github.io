@@ -27,6 +27,7 @@ Latest projects I have been working on:
 
 - Felipe Ducau and Sony Trenous, advised by Joan Bruna. 2016. _infoVAE: Mutual Information in Variational Autoencoders_ ([pdf](https://github.com/fducau/infoVAE/blob/master/Mutual%20Information%20in%20Variational%20Autoencoders.pdf), [source](https://github.com/fducau/infoVAE))
 
-
+# [](#header-2)Blog Entries
+- [Adversarial Autoencoders (with Pytorch)](https://blog.paperspace.com/adversarial-autoencoders-with-pytorch/)
 
 
