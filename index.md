@@ -10,6 +10,8 @@ My main interests are in neural language models, and generative models more broa
 #  [](#header-2)Courses
 Some interesting courses I have taken:
 
+- Mathematics of Deep Learning
+
 - Natural Language Understanding with Deep Learning
 
 - Inference and Representation
@@ -21,7 +23,7 @@ Some interesting courses I have taken:
 # [](#header-2)Projects and interests
 Latest projects I have been working on:
 
-- Felipe Ducau, under the advice of 	Stanislas Lauly and Kyunghyun Cho. 2017. _SEQ2SEQ Professor Forcing_ ([pdf](https://github.com/fducau/nmt/raw/adversarial_stable/seq2seq_professor_forcing.pdf))
+- Felipe Ducau, under the advice of Stanislas Lauly and Kyunghyun Cho. 2017. _SEQ2SEQ Professor Forcing_ ([pdf](https://github.com/fducau/nmt/raw/adversarial_stable/seq2seq_professor_forcing.pdf))
 
 - Felipe Ducau and Maria Elena Villalobos Ponte. 2016. _CWord: Incorporating Larger Context in Neural Conversation Model_ ([pdf](https://github.com/fducau/CWord/blob/master/CWord_fnd212_mvp291.pdf), [source](https://github.com/fducau/CWord))
 
