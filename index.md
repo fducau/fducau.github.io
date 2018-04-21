@@ -21,7 +21,7 @@ Some interesting courses I have taken:
 # [](#header-2)Projects and interests
 Latest projects I have been working on:
 
-- Felipe Ducau. 2017. _SEQ2SEQ Professor Forcing_ ([pdf](https://github.com/fducau/nmt/raw/adversarial_stable/seq2seq_professor_forcing.pdf))
+- Felipe Ducau, under the advice of 	Stanislas Lauly and Kyunghyun Cho. 2017. _SEQ2SEQ Professor Forcing_ ([pdf](https://github.com/fducau/nmt/raw/adversarial_stable/seq2seq_professor_forcing.pdf))
 
 - Felipe Ducau and Maria Elena Villalobos Ponte. 2016. _CWord: Incorporating Larger Context in Neural Conversation Model_ ([pdf](https://github.com/fducau/CWord/blob/master/CWord_fnd212_mvp291.pdf), [source](https://github.com/fducau/CWord))
 
@@ -29,7 +29,7 @@ Latest projects I have been working on:
 
    Recipient of the 2016 Capstone Project of the Year award - NYU Center for Data Science.
 
-- Felipe Ducau and Sony Trenous, advised by Joan Bruna. 2016. _infoVAE: Mutual Information in Variational Autoencoders_ ([pdf](https://github.com/fducau/infoVAE/blob/master/Mutual%20Information%20in%20Variational%20Autoencoders.pdf), [source](https://github.com/fducau/infoVAE))
+- Felipe Ducau and Sony Trenous, under the advice by Joan Bruna. 2016. _infoVAE: Mutual Information in Variational Autoencoders_ ([pdf](https://github.com/fducau/infoVAE/blob/master/Mutual%20Information%20in%20Variational%20Autoencoders.pdf), [source](https://github.com/fducau/infoVAE))
 
 
 # [](#header-2)Blog Entries
