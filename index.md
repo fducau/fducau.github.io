@@ -3,7 +3,7 @@ layout: default
 ---
 
 # [](#header-2)About
-I am a machine learning researcher and engineer how specializes in the design and evaluation of deep learning models. As part of Sophos Data Science team, I currently focus on the development of deep learning applications for cybersecurity. I received my Master's degree in Data Science at the [Center for Data Science](http://cds.nyu.edu/) at New York University where I focused on adversarial learning applied to generative models. Prior to that I received my degree in Electrical Engineering from [Universidad Catolica Argentina](http://www.uca.edu.ar/index.php/site/index/es/uca/facultad-de-ciencias-fisicomatematicas-e-ingenieria/). 
+I am a machine learning researcher and engineer hwo specializes in the design and evaluation of deep learning models. As part of Sophos Data Science team, I currently focus on the development of deep learning applications for cybersecurity. I received my Master's degree in Data Science at the [Center for Data Science](http://cds.nyu.edu/) at New York University where I focused on adversarial learning applied to generative models. Prior to that I received my degree in Electrical Engineering from [Universidad Catolica Argentina](http://www.uca.edu.ar/index.php/site/index/es/uca/facultad-de-ciencias-fisicomatematicas-e-ingenieria/). 
 
 My main interests are in neural language models, and generative models more broadly. Also interested in adversarial and reinforcement learning. 
 
@@ -22,6 +22,8 @@ Some interesting courses I have taken:
 
 # [](#header-2)Projects and interests
 Latest projects I have been working on:
+
+- Richard Harang and Felipe Ducau. 2018. _Measuring the Speed of the Red Queen's Race; Adaption and Evasion in Malware_. Presented at BlackHat USA 2018. ([pdf](https://i.blackhat.com/us-18/Wed-August-8/us-18-Harang-Measuring-the-Speed-of-the-Red-Queens-Race-wp.pdf), [talk](https://www.blackhat.com/us-18/briefings/schedule/#measuring-the-speed-of-the-red-queens-race-adaption-and-evasion-in-malware-11214), [slides](https://i.blackhat.com/us-18/Wed-August-8/us-18-Harang-Measuring-the-Speed-of-the-Red-Queens-Race.pdf))
 
 - Felipe Ducau, under the advice of Stanislas Lauly and Kyunghyun Cho. 2017. _SEQ2SEQ Professor Forcing_ ([pdf](https://github.com/fducau/nmt/raw/adversarial_stable/seq2seq_professor_forcing.pdf))
 
