@@ -14,7 +14,7 @@ Latest projects I have been working on:
 
 - Felipe N Ducau, Ethan M Rudd, Tad M Heppner, Alex Long, Konstantin Berlin. _SMART: Semantic Malware Attribute Relevance Tagging_. 2019. [[arxiv-preprint]](https://arxiv.org/abs/1905.06262)
 
-- Ethan M Rudd, Felipe N Ducau, Cody Wild, Konstantin Berlin, Richard Harang. _ALOHA: Auxiliary Loss Optimization for Hypothesis Augmentation_. 2019. [[arxiv-preprint]](https://arxiv.org/abs/1903.05700)
+- Ethan M Rudd, Felipe N Ducau, Cody Wild, Konstantin Berlin, Richard Harang. _ALOHA: Auxiliary Loss Optimization for Hypothesis Augmentation_. 28th USENIX Security Symposium 2019. [[paper]](https://www.usenix.org/conference/usenixsecurity19/presentation/rudd)
 
 - Richard Harang and Felipe Ducau. 2018. _Measuring the Speed of the Red Queen's Race; Adaption and Evasion in Malware_. Presented at BlackHat USA 2018. [[pdf]](https://i.blackhat.com/us-18/Wed-August-8/us-18-Harang-Measuring-the-Speed-of-the-Red-Queens-Race-wp.pdf) [[talk]](https://www.blackhat.com/us-18/briefings/schedule/#measuring-the-speed-of-the-red-queens-race-adaption-and-evasion-in-malware-11214) [[slides]](https://i.blackhat.com/us-18/Wed-August-8/us-18-Harang-Measuring-the-Speed-of-the-Red-Queens-Race.pdf)
 
