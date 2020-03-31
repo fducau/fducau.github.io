@@ -3,16 +3,17 @@ layout: default
 ---
 
 # [](#header-2)About
-I am a machine learning researcher and engineer who specializes in the design and evaluation of deep learning models. As part of Sophos Data Science team, I currently focus on the development of deep learning applications for cybersecurity. I received my Master's degree in Data Science at the [Center for Data Science](http://cds.nyu.edu/) at New York University where I focused my research on adversarial learning applied to generative models. Prior to that I received my degree in Electrical Engineering from [Universidad Catolica Argentina](http://www.uca.edu.ar/index.php/site/index/es/uca/facultad-de-ciencias-fisicomatematicas-e-ingenieria/). 
+I am a machine learning researcher and engineer who specializes in the design and evaluation of deep learning models. I'm currently working on the intersection of ML and green technologies, exploring applications for mitigation and adaptation to climate change. I'm particularly interested in regenerative agriculture and bio-based materials.
 
-My main interests are in neural language models, and generative models more broadly, adversarial and reinforcement learning. Also, I'm currently exploring ways in which ML can be used to help improve the way we grow food.
+Prior to this, as part of Sophos AI team, I focused on the development of novel deep learning applications for cybersecurity. I received my Master's degree in Data Science at the [Center for Data Science](http://cds.nyu.edu/) at New York University where I focused my research on adversarial learning applied to generative models. Prior to that I received my degree in Electrical Engineering from [Universidad Catolica Argentina](http://www.uca.edu.ar/index.php/site/index/es/uca/facultad-de-ciencias-fisicomatematicas-e-ingenieria/). 
+
 
 # [](#header-2)Projects and interests
 Latest projects I have been working on:
 
 - Green-ML resources. [[github-repo]](https://github.com/fducau/green)
 
-- Felipe N Ducau, Ethan M Rudd, Tad M Heppner, Alex Long, Konstantin Berlin. _SMART: Semantic Malware Attribute Relevance Tagging_. 2019. [[arxiv-preprint]](https://arxiv.org/abs/1905.06262)
+- Felipe N Ducau, Ethan M Rudd, Tad M Heppner, Alex Long, Konstantin Berlin. _SMART: Semantic Malware Attribute Relevance Tagging_. 2019. [[arxiv-preprint]](https://arxiv.org/abs/1905.06262) [[CAMLIS Presentation (video)]](https://www.youtube.com/watch?v=q1axkVsm0_c&t=671s)
 
 - Ethan M Rudd, Felipe N Ducau, Cody Wild, Konstantin Berlin, Richard Harang. _ALOHA: Auxiliary Loss Optimization for Hypothesis Augmentation_. 28th USENIX Security Symposium 2019. [[paper]](https://www.usenix.org/conference/usenixsecurity19/presentation/rudd)
 
@@ -28,18 +29,6 @@ Latest projects I have been working on:
 
 - Felipe Ducau and Sony Trenous, under the advice by Joan Bruna. 2016. _infoVAE: Mutual Information in Variational Autoencoders_. [[pdf]](https://github.com/fducau/infoVAE/blob/master/Mutual%20Information%20in%20Variational%20Autoencoders.pdf) [[source]](https://github.com/fducau/infoVAE)
 
-#  [](#header-2)Courses
-Some interesting courses I have taken:
-
-- Mathematics of Deep Learning
-
-- Natural Language Understanding with Deep Learning
-
-- Inference and Representation
-
-- Machine Learning and Computational Statistics
-
-- Deep Learning
 
 # [](#header-2)Blog Entries
 - [Adversarial Autoencoders (with Pytorch)](https://blog.paperspace.com/adversarial-autoencoders-with-pytorch/)
