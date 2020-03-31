@@ -3,7 +3,7 @@ layout: default
 ---
 
 # [](#header-2)About
-I am a machine learning researcher and engineer who specializes in the design and evaluation of deep learning models. I'm currently working on the intersection of ML and green technologies, exploring applications for mitigation and adaptation to climate change. I'm particularly interested in regenerative agriculture and bio-based materials.
+I am a machine learning researcher and engineer who specializes in the design and evaluation of deep learning models. I'm currently working on the intersection of ML and green technologies, exploring applications for mitigation and adaptation to climate change. I'm particularly interested in regenerative agriculture, metagenomics, and bio-based materials.
 
 Prior to this, as part of Sophos AI team, I focused on the development of novel deep learning applications for cybersecurity. I received my Master's degree in Data Science at the [Center for Data Science](http://cds.nyu.edu/) at New York University where I focused my research on adversarial learning applied to generative models. Prior to that I received my degree in Electrical Engineering from [Universidad Catolica Argentina](http://www.uca.edu.ar/index.php/site/index/es/uca/facultad-de-ciencias-fisicomatematicas-e-ingenieria/). 
 
