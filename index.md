@@ -9,10 +9,8 @@ Before that I worked at the intersection of computer vision and microscopy build
 
 Coming from the world of Electrical Engineering, satellite communications and building robots ([Universidad Catolica Argentina](http://www.uca.edu.ar/index.php/site/index/es/uca/facultad-de-ciencias-fisicomatematicas-e-ingenieria/)), I received my Master’s degree in Data Science at the [Center for Data Science](http://cds.nyu.edu/) at New York University. While there I focused my research on adversarial learning applied to generative models.
 
-Curious by nature, I enjoy gardening, yoga, rock-climbing, books, and spending time outdoors. Other interests include, nature inspired solutions, regenerative agriculture, metagenomics, and bio-based materials.
+Curious by nature, I enjoy gardening, yoga, rock-climbing, books, and spending time outdoors. Other interests include, nature inspired solutions, regenerative agriculture, metagenomics, bio-based materials, myths, and western philosophy.
 
-
-# [](#header-2)Projects and interests
 Some projects I've worked on':
 
 - Green-ML resources. [[github-repo]](https://github.com/fducau/green)
