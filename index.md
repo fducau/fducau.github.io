@@ -10,8 +10,6 @@ Coming from the world of Electrical Engineering, satellite communications and bu
 
 Curious by nature, I enjoy gardening, yoga, rock-climbing, books, and spending time outdoors.
 
-Prior to this, as part of Sophos AI team, I focused on the development of novel deep learning applications for cybersecurity. I received my Master's degree in Data Science at the [Center for Data Science](http://cds.nyu.edu/) at New York University where I focused my research on adversarial learning applied to generative models. Prior to that I received my degree in Electrical Engineering from [Universidad Catolica Argentina](http://www.uca.edu.ar/index.php/site/index/es/uca/facultad-de-ciencias-fisicomatematicas-e-ingenieria/). 
-
 
 # [](#header-2)Projects and interests
 Some projects I've worked on':
