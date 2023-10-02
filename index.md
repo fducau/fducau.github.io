@@ -3,13 +3,18 @@ layout: default
 ---
 
 # [](#header-2)About
-I am a machine learning researcher and engineer who specializes in the design and evaluation of deep learning models. I'm currently working on the intersection of ML and green technologies, exploring applications for mitigation and adaptation to climate change. I'm particularly interested in regenerative agriculture, metagenomics, and bio-based materials.
+Hi! Felipe here. Machine learning researcher and engineer, specializing in design and evaluation of deep learning models. Currently working independently under Goby Lab, where we strategize and build data solutions for mid and small sized companies.
+Before that I worked at the intersection of computer vision and microscopy building algorithms for estimating biomass of microorganisms, designed and built deep learning models for applications in cybersecurity @ Sophos, and trained state of the art models for stress-testing Paperspace platform capabilities.
+
+Coming from the world of Electrical Engineering, satellite communications and building robots ([Universidad Catolica Argentina](http://www.uca.edu.ar/index.php/site/index/es/uca/facultad-de-ciencias-fisicomatematicas-e-ingenieria/)), I received my Master’s degree in Data Science at the [Center for Data Science](http://cds.nyu.edu/) at New York University. While there I focused my research on adversarial learning applied to generative models.
+
+Curious by nature, I enjoy gardening, yoga, rock-climbing, books, and spending time outdoors.
 
 Prior to this, as part of Sophos AI team, I focused on the development of novel deep learning applications for cybersecurity. I received my Master's degree in Data Science at the [Center for Data Science](http://cds.nyu.edu/) at New York University where I focused my research on adversarial learning applied to generative models. Prior to that I received my degree in Electrical Engineering from [Universidad Catolica Argentina](http://www.uca.edu.ar/index.php/site/index/es/uca/facultad-de-ciencias-fisicomatematicas-e-ingenieria/). 
 
 
 # [](#header-2)Projects and interests
-Latest projects I have been working on:
+Some projects I've worked on':
 
 - Green-ML resources. [[github-repo]](https://github.com/fducau/green)
 
