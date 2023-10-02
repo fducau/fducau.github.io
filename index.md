@@ -4,6 +4,7 @@ layout: default
 
 # [](#header-2)About
 Hi! Felipe here. Machine learning researcher and engineer, specializing in design and evaluation of deep learning models. Currently working independently under Goby Lab, where we strategize and build data solutions for mid and small sized companies.
+
 Before that I worked at the intersection of computer vision and microscopy building algorithms for estimating biomass of microorganisms, designed and built deep learning models for applications in cybersecurity @ Sophos, and trained state of the art models for stress-testing Paperspace platform capabilities.
 
 Coming from the world of Electrical Engineering, satellite communications and building robots ([Universidad Catolica Argentina](http://www.uca.edu.ar/index.php/site/index/es/uca/facultad-de-ciencias-fisicomatematicas-e-ingenieria/)), I received my Master’s degree in Data Science at the [Center for Data Science](http://cds.nyu.edu/) at New York University. While there I focused my research on adversarial learning applied to generative models.
